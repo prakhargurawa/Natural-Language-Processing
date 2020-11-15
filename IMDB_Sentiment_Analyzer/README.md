@@ -1,3 +1,4 @@
+# IMDB Sentiment Analyzer
 
 Basic Analyzer : Basic preprocessing, one-hot encoding, Logistic regression
 
